@@ -8,6 +8,4 @@
 
 ## Get in touch
 
-- Twitter: https://twitter.com/MelvinBaybayan
-- Facebook: https://www.facebook.com/binbin.nivlem
 - Personal site: https://web-portfolio.melvinbaybayanon.site/
