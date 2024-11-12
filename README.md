@@ -10,4 +10,4 @@
 
 - Twitter: https://twitter.com/MelvinBaybayan
 - Facebook: https://www.facebook.com/binbin.nivlem
-- Personal site: https://melvinbaybayanon.netlify.app/
+- Personal site: https://web-portfolio.melvinbaybayanon.site/
