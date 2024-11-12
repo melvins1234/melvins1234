@@ -8,4 +8,4 @@
 
 ## Get in touch
 
-- Personal site: https://web-portfolio.melvinbaybayanon.site/
+- Personal site: https://www.melvinbaybayanon.site/
